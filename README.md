@@ -33,7 +33,7 @@ A simple, drag-and-drop task management app inspired by Trello. Organize your ta
 
 
 ## **Where to use or Installation**
-1. Visit the domain: https://m-todo-alpha.vercel.app/
+1. Visit the domain: https://m-todo-alpha.vercel.app/ (not mobile friendly yet though)
 
 or if you want to run it locally:
 
